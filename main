@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>gameweb</title>
+  <style>
+    body {
+      font-family: Arial;
+      text-align: center;
+      background: #f2f2f2;
+    }
+    a {
+      display: block;
+      margin: 15px;
+      font-size: 20px;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>games</h1>
+
+  <a href="games/clicker.html">Play Clicker Game</a>
+</body>
+</html>
